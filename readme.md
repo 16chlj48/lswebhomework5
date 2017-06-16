@@ -26,3 +26,5 @@ console.log(5);
 Once you have completed all of the challenges, commit your changes, push your changes to Github, and post a link to your repository in #webassignment5 on lambdaschool.slack.com (if you need an invite see https://lambdaschool.com/mini-bootcamp).
 
 Good luck!
+
+Livestream: https://www.youtube.com/watch?v=UwNMelsm28Y
